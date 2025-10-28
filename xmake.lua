@@ -5,6 +5,6 @@ target("leg")
     set_languages("c++23")
     set_kind("binary")
     add_files("src/*.cc")
-    add_headerfiles("include/*.hpp")
+    add_includedirs("include/")
     
 
