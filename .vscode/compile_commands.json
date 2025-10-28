@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/nyiuu/workplace/leg_test",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-std=c++23", "-isystem", "/usr/include/eigen3", "-o", "build/.objs/leg/linux/x86_64/release/src/main.cc.o", "src/main.cc"],
+  "file": "src/main.cc"
+}]

@@ -1,0 +1,12 @@
+{
+    tool_target_leg_linux_x86_64_cxx = {
+        program = "/usr/bin/clang",
+        toolname = "clang",
+        toolchain_info = {
+            cachekey = "clang_arch_x86_64_plat_linux",
+            plat = "linux",
+            name = "clang",
+            arch = "x86_64"
+        }
+    }
+}

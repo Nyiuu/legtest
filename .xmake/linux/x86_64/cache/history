@@ -1,0 +1,13 @@
+{
+    cmdlines = {
+        "xmake ",
+        "xmake project -k compile_commands",
+        "xmake l /home/nyiuu/.vscode-server/extensions/tboox.xmake-vscode-2.4.1/assets/explorer.lua",
+        "xmake check",
+        "xmake l /home/nyiuu/.vscode-server/extensions/tboox.xmake-vscode-2.4.1/assets/update_intellisense.lua .vscode clangd",
+        "xmake l /home/nyiuu/.vscode-server/extensions/tboox.xmake-vscode-2.4.1/assets/explorer.lua",
+        "xmake l /home/nyiuu/.vscode-server/extensions/tboox.xmake-vscode-2.4.1/assets/config.lua",
+        "xmake check",
+        "xmake project -k compile_commands"
+    }
+}
